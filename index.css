@@ -1,0 +1,44 @@
+header {
+text-align: center;
+background-color: green;
+color:white;
+
+}  
+
+#menu {
+list-style: none;
+}
+
+
+#menu li {
+display:inline;
+margin-right: 50px;
+}
+
+
+#menu a {
+color: white;
+
+
+}
+
+#gallery {
+display: flex;
+flex-direction: column;
+
+}
+
+#gallery .image {
+
+display: flex;
+flex-direction: row;
+font-size: larger;
+}
+
+
+#gallery img {
+max-width: 400px;
+margin: 20px;
+margin-top: 0;
+
+}
