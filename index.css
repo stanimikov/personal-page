@@ -40,5 +40,30 @@ font-size: larger;
 max-width: 400px;
 margin: 20px;
 margin-top: 0;
+}
+
+#intro {
+    font-size: larger;
+}
+
+#main-photo {
+width: 100%;
+height: 550px;
+overflow: hidden;
+
+}
+
+#main-photo img {
+margin-top: -70px;
+
+}
+
+main {
+width: 75%;
+margin:0 auto;
+}
+
+h2 {
+text-align: center;
 
 }
